@@ -1,0 +1,25 @@
+tests/
+    ├── test_hotels_api.py
+    ├── test_users_api.py
+    ├── test_rooms_api.py
+    ├── test_bookings_api.py
+    └── test_utils.py   # Common helper functions or utility tests
+
+
+
+Modules to Test:
+Hotels
+
+Users
+
+Rooms
+
+Bookings
+
+For each module, I'll provide the following:
+
+Basic functionality tests
+
+Edge cases (e.g., invalid data, empty database)
+
+Boundary cases (e.g., extremely large numbers, invalid IDs)
